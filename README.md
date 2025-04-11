@@ -2,7 +2,7 @@
 
 A Passionate Computer Science Enthusiast from India
 
-💻 Currently exploring the magic of **full-stack development**, diving deep into **DSA**, and always tinkering with something new — whether it's a **side project**, a **coding challenge**, or a **weird idea at 2 AM**.
+💻 Currently exploring the magic of **full-stack development**, diving deep into **DSA**, and always tinkering with something new — whether it's a **side project**, a **coding challenge**
 
 🚀 Passionate about:
 - Writing code that speaks louder than words  
@@ -21,7 +21,6 @@ Email: shyamsdom@gmail.com     Linkedin: www.linkedin.com/in/shyam5s
 
 # 💫 About Me:
 🔭 I’m currently working on AI <br>🌱 I’m currently learning Python, MERN Stack, Js<br>💬 Ask me about Python, prompt engineering, WebDev<br>⚡ Fun fact I am an artist. Words to poetry, ideas to solutions, I do it All!<br>     How to reach me shyamsdom@gmail.com 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shyam5s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Shyamsundar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamsdom@gmail.com) 
