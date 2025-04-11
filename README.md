@@ -1,4 +1,4 @@
-👋 Hey there! I'm Shyam 
+👋 Hey there! I'm Shyamsundar
 
 A Passionate Computer Science Enthusiast from India
 
